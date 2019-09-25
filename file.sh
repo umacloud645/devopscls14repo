@@ -1,3 +1,3 @@
 #!/bin/bash
 
-touch file{1..4}.txt
+touch gitfile{1..4}.txt
